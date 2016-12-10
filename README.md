@@ -1,5 +1,5 @@
-# RR-CANMAN-CCN01
-This is an effort to reverse engineer the CANMAN CCN01 eeprom, the goal is to create a working bin file for a reset module specifically for the Startboard side Jet installed in M/Y Sunglider ii
+# Rolls-Royce CANMAN-CCN01
+This is an effort to reverse engineer the Rolls-Royce CANMAN CCN01 eeprom, the goal is to create a working bin file for a reset module specifically for the Startboard side Jet installed in M/Y Sunglider ii
 
 The target bin file output is a copy of the CANMAN ID21(working module).bin with a node id of 24 and node name of SO-Master instead.(Starboard side Jet Master)
 
