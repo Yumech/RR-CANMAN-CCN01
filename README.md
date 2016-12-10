@@ -13,4 +13,4 @@ Here's a nice reference for this project: http://www.es.mdh.se/pdf_publications/
 
 # Update (December 11, 2016 2:50AM GMT+8)
 
-for the CANMAN ID21(working dump).bin and CANMAN ID25(working dump).bin the node ID is stored at EEPROM address 3A7 followed by it's single byte CRC (3A8) as of this time, i really haven't figured out how the CRC byte is calculated, but i tried copying the node id and the crc byte to the other bin file and it works.
+for the CANMAN ID21(working dump).bin and CANMAN ID25(working dump).bin the node ID is stored at EEPROM address 3A7 followed by it's single byte CRC (3A8) as of this time, i really haven't figured out how the CRC byte is calculated, but i tried copying the node id and the crc byte from one to the other bin file and it works.
